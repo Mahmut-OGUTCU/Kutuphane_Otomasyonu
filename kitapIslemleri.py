@@ -5,15 +5,6 @@ from tkinter.font import BOLD
 from tkinter.ttk import Treeview
 import kitap_emanet_teslim
 
-#backgroundcolors = SlateGray3,SlateGray4, DarkSeaGreen3,DarkSeaGreen4,#33334d
-#yazı rengi = #ff9900,#009999,#99004d,#cc3300
-#-#009999-mavi
-#-#993399-mor
-#-#339966-yesil
-#-#99004d-pembe-kırmızı
-#-#ff9900-sarı-turuncu
-#-#33334d-koyu gri
-
 
 def kitapGecmisi(uyeID):
     yeniPencere = Tk()
